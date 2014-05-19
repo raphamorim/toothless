@@ -1,5 +1,4 @@
-# Mr. Builder
-#pwd
+#!/bin/bash
 
 function Sample {
     echo "building...."
@@ -25,9 +24,9 @@ function Mean {
     npm install
 }
 
-function MrBuilder {
+function Jarvis {
     clear
-        echo "Hi! Welcome to Mr.Builder :)"
+        echo "Hi! Welcome to Jarvis :)"
         echo "------------------------------------------"
         echo "What you wanna build?"
         echo
@@ -43,8 +42,12 @@ function MrBuilder {
         2) Express ;;
         3) Mean ;;
         4) exit ;;
-        *) echo ; echo "Invalid option" ; read waiting ; MrBuilder ;;
+        *) echo ; echo "Invalid option" ; read waiting ; Jarvis ;;
     esac
 }
 
-MrBuilder
+# BASEDIR=$(dirname $0)
+# echo $BASEDIR
+# alias mrbuilder="./build.sh"
+
+Jarvis
