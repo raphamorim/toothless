@@ -17,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/raphamorim/toothless/issues"
   },
-  "homepage": "https://raphamorim.com/toothless"
+  "homepage": "https://raphamorim.com/toothless",
+  "preferGlobal": "true"
 }
