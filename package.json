@@ -1,0 +1,21 @@
+{
+  "name": "toothless",
+  "version": "0.1.0",
+  "description": "The developer's best friend",
+  "main": "./lib/index.js",
+  "bin": "./bin/toothless.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/raphamorim/toothless.git"
+  },
+  "author": "Raphael Amorim",
+  "readmeFilename": "readme.md",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raphamorim/toothless/issues"
+  },
+  "homepage": "https://raphamorim.com/toothless"
+}
