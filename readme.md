@@ -1,15 +1,15 @@
-##Toothless
+# Toothless
 
 Hi fellas, my name is **Toothless** and i've been created to help you in make projects more fast. Run and save shell script anywhere using an recorded command.
 
-### Install
+## Install
 
-    npm install -g toothless
+    $ npm install -g toothless
 
-### Usage
+## Usage
 To use Toothless it's simple.
 
-### Commands
+## Commands
 
   toothless [options]
 
@@ -19,6 +19,6 @@ To use Toothless it's simple.
         -v, --version             output the version number
 
 
-###About
+## About
 
 **License:** MIT ® [Raphael Amorim](https://github.com/raphamorim)
