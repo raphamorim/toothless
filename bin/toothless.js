@@ -2,6 +2,5 @@
 'use strict';
 
 (function() {
-    console.log("Toothless :)\n");
-    var jarvis = require('../lib/');
+    var toothless = require('../lib/index.js');
 }).call(this);
