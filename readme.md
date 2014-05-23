@@ -8,13 +8,21 @@ Hi fellas, my name is **Toothless** and i've been created to help you in make pr
 
 ## Usage
 
-Run shell script: `$ toothless run [path]`
+Run shell script:
 
-Save command from a shell script: `$ toothless [command name] [path]`
+    $ toothless run [path]
 
-Execute saved command: `$ toothless [command name]`
+Save command from a shell script:
 
-Remove saved command: `$ toothless remove [command name]`
+    $ toothless [command name] [path]
+
+Execute saved command:
+
+    $ toothless [command name]
+
+Remove saved command:
+
+    $ toothless remove [command name]
 
 
 ## Commands
