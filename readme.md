@@ -7,14 +7,25 @@ Hi fellas, my name is **Toothless** and i've been created to help you in make pr
     $ npm install -g toothless
 
 ## Usage
-To use Toothless it's simple.
+**run shell script**
+    toothless run <path>
+
+**save command from a shell script**
+    toothless <command name> <path>
+
+**execute saved command**
+    toothless <command name>
+
+**remove saved command**
+    toothless remove <command name>
 
 ## Commands
 
-  toothless [options]
+    toothless [options]
 
     Options:
 
+        -a, --all                 output saved commands
         -h, --help                output usage information
         -v, --version             output the version number
 
