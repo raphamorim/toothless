@@ -1,6 +1,6 @@
 # Toothless
 
-Hi fellas, my name is **Toothless** and i've been created to help you in make projects more fast. Run and save shell script anywhere using an recorded command.
+Hi fellas, my name is **Toothless** and i've been created to help you in make projects more fast. Run shell script functions in anywhere using an recorded command.
 
 ## Install
 
@@ -8,24 +8,24 @@ Hi fellas, my name is **Toothless** and i've been created to help you in make pr
 
 ## Usage
 
-Run shell script:
+Run shell script (without record):
 
     $ toothless run [path]
 
-Save command from a shell script:
+Record command from a shell script:
 
     $ toothless [command name] [path]
 
-Execute saved command:
+Execute recorded command:
 
     $ toothless [command name]
 
-Remove saved command:
+Remove recorded command:
 
     $ toothless remove [command name]
 
 
-## Commands
+## Options
 
     toothless [options]
 
