@@ -7,17 +7,15 @@ Hi fellas, my name is **Toothless** and i've been created to help you in make pr
     $ npm install -g toothless
 
 ## Usage
-**run shell script**
-    toothless run <path>
 
-**save command from a shell script**
-    toothless <command name> <path>
+Run shell script: `$ toothless run `path`
 
-**execute saved command**
-    toothless <command name>
+Save command from a shell script: `$ toothless [command name] [path]`
 
-**remove saved command**
-    toothless remove <command name>
+Execute saved command: `$ toothless [command name]`
+
+Remove saved command: `$ toothless remove [command name]`
+
 
 ## Commands
 
