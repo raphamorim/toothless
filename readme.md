@@ -8,7 +8,7 @@ Hi fellas, my name is **Toothless** and i've been created to help you in make pr
 
 ## Usage
 
-Run shell script: `$ toothless run `path`
+Run shell script: `$ toothless run [path]`
 
 Save command from a shell script: `$ toothless [command name] [path]`
 
