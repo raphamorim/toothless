@@ -1,8 +1,10 @@
 # Toothless
 
-Hi fellas, my name is **Toothless** and i've been created to help you in make projects more fast. Run shell script functions in anywhere using an recorded command.
+Create global commands from shell script files. Run these recorded commands in anywhere. Using to build and make the process more faster. Connect with shell script files in one defined repo in git and run they locally. Don't be shy :)
 
 ## Install
+
+Before anything, you need to have [node](http://nodejs.org/) and [npm](https://www.npmjs.org/) installed.
 
     $ npm install -g toothless
 
