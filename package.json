@@ -18,5 +18,9 @@
     "url": "https://github.com/raphamorim/toothless/issues"
   },
   "homepage": "https://raphamorim.com/toothless",
-  "preferGlobal": "true"
+  "preferGlobal": "true",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0"
+  }
 }
