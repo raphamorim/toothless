@@ -1,6 +1,6 @@
 # Toothless
 
-Create global commands from shell script files. Run these recorded commands in anywhere. Using to build and make the process more faster. Connect with shell script files in one defined repo in git and run they locally. Don't be shy :)
+Create global commands from shell script files. Run these recorded commands in anywhere. Bootstrap your environment faster. Connect with shell script files in one defined repo in git and run they locally. Don't be shy :)
 
 ## Install
 
