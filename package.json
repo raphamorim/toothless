@@ -1,7 +1,7 @@
 {
   "name": "toothless",
-  "version": "0.1.0",
-  "description": "Create global commands using shell script",
+  "version": "0.1.3",
+  "description": "Create global commands from shell script files",
   "main": "./lib/index.js",
   "bin": "./bin/toothless.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/raphamorim/toothless/issues"
   },
-  "homepage": "https://raphamorim.com/toothless",
+  "homepage": "https://github.com/raphamorim/toothless",
   "preferGlobal": "true",
   "devDependencies": {
     "grunt": "^0.4.5",
