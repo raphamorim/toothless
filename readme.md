@@ -41,3 +41,19 @@ Remove recorded command:
 ## About
 
 **License:** MIT ® [Raphael Amorim](https://github.com/raphamorim)
+
+-----------------
+
+## Changelog
+
+v 0.1.3
+
+*   Fix permission problem
+*   Add Grunt and JSHint to project
+
+v 0.1.0
+
+*   Save and execute commands
+*   Run shell script files
+*   Features working only with permission
+
