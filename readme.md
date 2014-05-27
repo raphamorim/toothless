@@ -42,8 +42,6 @@ Remove recorded command:
 
 **License:** MIT ® [Raphael Amorim](https://github.com/raphamorim)
 
------------------
-
 ## Changelog
 
 v 0.1.3
