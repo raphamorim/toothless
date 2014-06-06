@@ -1,11 +1,11 @@
 
 Usage: toothless <command>
 
-Description: Run and save shell script anywhere using an recorded command.
+Description: Create global commands from shell script files.
 More info: https://github.com/raphamorim/toothless
 
 Commands:
- toothless run <path>                run shell script
+ toothless run <path>                run shell script file
  toothless <command name> <path>     save command from a shell script
  toothless <command name>            execute saved command
  toothless remove <command name>     remove saved command
