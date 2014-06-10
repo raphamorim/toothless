@@ -1,6 +1,6 @@
 # Toothless
 
-Create global commands from shell script files. Run these recorded commands in anywhere. Bootstrap your environment faster. Connect with shell script files in one defined repo in git and run they locally. 
+Create global commands from shell script files. Run these recorded commands in anywhere. Bootstrap your environment faster. Connect with shell script files in one defined repo in git and run they locally.
 
 Don't be shy, send a Pull Request :)
 
@@ -18,7 +18,7 @@ Run shell script (without record):
 
 Record command from a shell script:
 
-    $ toothless [command name] [path]
+    $ toothless save [command name] [path]
 
 Execute recorded command:
 
@@ -56,4 +56,3 @@ v 0.1.0
 *   Save and execute commands
 *   Run shell script files
 *   Features working only with permission
-
