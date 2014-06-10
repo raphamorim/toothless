@@ -6,7 +6,7 @@ More info: https://github.com/raphamorim/toothless
 
 Commands:
  toothless run <path>                run shell script file
- toothless <command name> <path>     save command from a shell script
+ toothless save <command name> <path>     save command from a shell script
  toothless <command name>            execute saved command
  toothless remove <command name>     remove saved command
 
