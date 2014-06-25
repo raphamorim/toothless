@@ -46,6 +46,12 @@ Remove recorded command:
 
 ## Changelog
 
+v 0.1.4
+
+*   Major rewrite
+*   Better response to user
+*   Print command execution time
+
 v 0.1.3
 
 *   Fix permission problem
