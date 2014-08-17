@@ -1,6 +1,6 @@
 {
   "name": "toothless",
-  "version": "0.1.4",
+  "version": "0.1.41",
   "description": "Create global commands from shell script files",
   "main": "./lib/index.js",
   "bin": "./bin/toothless.js",
